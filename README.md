@@ -16,4 +16,4 @@ List of projects so far!
 
 
 
-[First HTML page with img and links](https://github.com/TobiHanshi/HTML/tree/main/HTML%20Test/odin-links-and-images)
+[First HTML page with img and links](https://github.com/TobiHanshi/HTML/tree/main)
